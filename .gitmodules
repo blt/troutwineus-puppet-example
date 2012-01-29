@@ -1,0 +1,12 @@
+[submodule "modules/apt"]
+	path = modules/apt
+	url = git@github.com:blt/puppet-apt.git
+[submodule "modules/nginx"]
+	path = modules/nginx
+	url = git@github.com:blt/puppet-nginx.git
+[submodule "modules/puppet"]
+	path = modules/puppet
+	url = git@github.com:blt/puppet-puppet.git
+[submodule "modules/supervisor"]
+	path = modules/supervisor
+	url = git@github.com:blt/puppet-module-supervisor.git
