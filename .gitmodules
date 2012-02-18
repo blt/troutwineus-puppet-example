@@ -10,3 +10,15 @@
 [submodule "modules/supervisor"]
 	path = modules/supervisor
 	url = git@github.com:blt/puppet-module-supervisor.git
+[submodule "modules/gitolite"]
+	path = modules/gitolite
+	url = git@github.com:blt/puppet-gitolite.git
+[submodule "modules/openssl"]
+	path = modules/openssl
+	url = git@github.com:blt/puppet-openssl.git
+[submodule "modules/rabbitmq"]
+	path = modules/rabbitmq
+	url = git@github.com:blt/puppet-rabbitmq.git
+[submodule "modules/traut"]
+	path = modules/traut
+	url = git@github.com:blt/puppet-traut.git

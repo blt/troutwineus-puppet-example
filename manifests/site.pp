@@ -11,4 +11,5 @@ import 'nodes.pp'
 # http://puppetcookbook.com/posts/set-global-exec-path.html
 Exec {
   path => "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+  logoutput => on_failure,
 }
