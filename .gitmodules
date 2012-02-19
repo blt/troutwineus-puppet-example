@@ -1,24 +1,33 @@
 [submodule "modules/apt"]
 	path = modules/apt
-	url = git@github.com:blt/puppet-apt.git
+	url = git://github.com/blt/puppet-apt.git
 [submodule "modules/nginx"]
 	path = modules/nginx
-	url = git@github.com:blt/puppet-nginx.git
+	url = git://github.com/blt/puppet-nginx.git
 [submodule "modules/puppet"]
 	path = modules/puppet
-	url = git@github.com:blt/puppet-puppet.git
+	url = git://github.com/blt/puppet-puppet.git
 [submodule "modules/supervisor"]
 	path = modules/supervisor
-	url = git@github.com:blt/puppet-module-supervisor.git
+	url = git://github.com/blt/puppet-module-supervisor.git
 [submodule "modules/gitolite"]
 	path = modules/gitolite
-	url = git@github.com:blt/puppet-gitolite.git
+	url = git://github.com/blt/puppet-gitolite.git
 [submodule "modules/openssl"]
 	path = modules/openssl
-	url = git@github.com:blt/puppet-openssl.git
+	url = git://github.com/blt/puppet-openssl.git
 [submodule "modules/rabbitmq"]
 	path = modules/rabbitmq
-	url = git@github.com:blt/puppet-rabbitmq.git
+	url = git://github.com/blt/puppet-rabbitmq.git
 [submodule "modules/traut"]
 	path = modules/traut
-	url = git@github.com:blt/puppet-traut.git
+	url = git://github.com/blt/puppet-traut.git
+[submodule "modules/ssh"]
+	path = modules/ssh
+	url = git://github.com/blt/puppet-ssh.git
+[submodule "modules/git"]
+	path = modules/git
+	url = git://github.com/blt/puppet-git.git
+[submodule "modules/slugbuild"]
+	path = modules/slugbuild
+	url = git://github.com/blt/puppet-slugbuild.git
